@@ -1,9 +1,9 @@
 # Hey there! 👋
 
-![fabasoad.com](https://img.shields.io/website?url=https%3A%2F%2Ffabasoad.com&style=for-the-badge&label=fabasoad.com&labelColor=2bbc8a&link=https%3A%2F%2Ffabasoad.com)
-![LinkedIn](https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2bbc8a&color=2bbc8a&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fyevhenfabizhevskyi%2F)
-![GitHub Stars](https://img.shields.io/github/stars/fabasoad?style=for-the-badge&logo=github&labelColor=2bbc8a&color=2bbc8a&link=https%3A%2F%2Fgithub.com%2Ffabasoad)
-![GitHub Sponsors](https://img.shields.io/github/sponsors/fabasoad?style=for-the-badge&labelColor=2bbc8a&color=2bbc8a&link=https%3A%2F%2Fgithub.com%2Fsponsors%2Ffabasoad)
+![[fabasoad.com](https://img.shields.io/website?url=https%3A%2F%2Ffabasoad.com&style=for-the-badge&label=fabasoad.com&labelColor=2bbc8a)](https://fabasoad.com/)
+![[LinkedIn](https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2bbc8a&color=2bbc8a)](https://www.linkedin.com/in/yevhenfabizhevskyi/)
+![[GitHub Stars](https://img.shields.io/github/stars/fabasoad?style=for-the-badge&logo=github&labelColor=2bbc8a&color=2bbc8a)](https://github.com/fabasoad)
+![[GitHub Sponsors](https://img.shields.io/github/sponsors/fabasoad?style=for-the-badge&labelColor=2bbc8a&color=2bbc8a)](https://github.com/sponsors/fabasoad)
 
 I'm Eugene, Senior Software Engineer in [Woven by Toyota](https://woven.toyota/en/).
 I am part of Application Security team. I am passionate about writing code, and
