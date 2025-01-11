@@ -10,11 +10,11 @@ Currently, part of Application Security team. I am passionate about writing code
 and solving complex problems. Also, I play guitar, enjoy gym and love watching
 movies.
 
-- :purple_heart: Currently, I enjoy building, creating, maintaining and improving
-  GitHub Actions. It is my passion and this occupies majority of my time at work
-  as well as owning GitHub Actions OSS projects ([see here](https://github.com/marketplace?query=fabasoad)).
+:purple_heart: Currently, I enjoy building, creating, maintaining and improving
+GitHub Actions. It is my passion and this occupies majority of my time at work
+as well as owning GitHub Actions OSS projects ([see here](https://github.com/marketplace?query=fabasoad)).
 
-My skill set:
+What I can do:
 - :art: Creating scalable frontend projects using React, TypeScript, SASS, webpack
   and yarn/npm/pnpm ([business-card](https://github.com/fabasoad/business-card)).
 - :cloud: Creating infrastructure projects using Terraform and AWS
@@ -25,13 +25,16 @@ My skill set:
   [2](https://github.com/fabasoad/translation-action/tree/main/.github/workflows),
   [3](https://github.com/fabasoad/twilio-voice-call-action/tree/main/.github/workflows),
   etc.).
-- :dart: Working with GitHub Actions from creation stage till delivery stage
+- :godmode: Working with GitHub Actions from creation stage till delivery stage
   across the organization in scalable and reliable way.
 - :knot: Writing scripts to automate work or reduce toil using POSIX shell
   or Python ([scripts](https://github.com/fabasoad/scripts)). 
 - :raised_hands: Contributing to OSS projects ([1](https://github.com/go-enry/enry/releases/tag/v1.2.0),
   [2](https://github.com/evincarofautumn/kitten/pull/225), [3](https://github.com/dependabot/cli/issues/86),
   etc.).
+- :guardsman: Protecting your project using Application Security best practices -
+  SCA, DAST, SAST, IaC scanning, container scanning, OSS licenses verification,
+  secrets scanning, etc.
 
 ## GitHub Stats
 
