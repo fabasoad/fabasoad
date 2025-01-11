@@ -35,7 +35,7 @@ My skill set:
 
 ## GitHub Stats
 
-![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=transparent)
+![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=vue-dark)
 
 ## Technologies & Tools
 
