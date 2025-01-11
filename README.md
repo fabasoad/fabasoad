@@ -6,30 +6,36 @@
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/fabasoad?style=for-the-badge&labelColor=2bbc8a&color=2bbc8a)](https://github.com/sponsors/fabasoad)
 
 I'm Eugene, Senior Software Engineer in [Woven by Toyota](https://woven.toyota/en/).
-I am part of Application Security team. I am passionate about writing code, and
-solving complex problems. Also, I play guitar, enjoy gym and love watching movies.
-Based in Tokyo.
+Currently, part of Application Security team. I am passionate about writing code,
+and solving complex problems. Also, I play guitar, enjoy gym and love watching
+movies.
 
-- :closed_lock_with_key: Currently almost 100% of my time I am working on building
-  and delivering Application Security GitHub Actions across the organization.
-- :art: I know how to create scalable frontend projects using React, TypeScript,
-  SASS and yarn/npm ([business-card](https://github.com/fabasoad/business-card)).
-- :cloud: I know how to create infrastructure projects using Terraform and AWS
+- :purple_heart: Currently, I enjoy building, creating, maintaining and improving
+  GitHub Actions. It is my passion and this occupies majority of my time at work
+  as well as owning GitHub Actions OSS projects ([see here](https://github.com/marketplace?query=fabasoad)).
+
+My skill set:
+- :art: Creating scalable frontend projects using React, TypeScript, SASS, webpack
+  and yarn/npm/pnpm ([business-card](https://github.com/fabasoad/business-card)).
+- :cloud: Creating infrastructure projects using Terraform and AWS
   ([business-card-deployment](https://github.com/fabasoad/business-card-deployment)).
-- :electric_plug: I know how to create scalable backend services using Java, Go
-  or Python.
-- :robot: I know how to configure CI/CD automation to reduce toil as much as
-  possible, so that all the SDLC stages are automated as necessary ([1](https://github.com/fabasoad/business-card/tree/main/.github/workflows),
+- :electric_plug: Creating scalable backend services using Java, Go or Python.
+- :robot: Configuring CI/CD automation to reduce toil as much as possible, so
+  that all the SDLC stages are automated as necessary ([1](https://github.com/fabasoad/business-card/tree/main/.github/workflows),
   [2](https://github.com/fabasoad/translation-action/tree/main/.github/workflows),
   [3](https://github.com/fabasoad/twilio-voice-call-action/tree/main/.github/workflows),
   etc.).
-- :dart: I know how to work with GitHub Actions from creation stage till delivery
-  stage across the organization in scalable and reliable way ([OSS GitHub Actions](https://github.com/marketplace?category=&type=actions&verification=&query=fabasoad)).
-- :knot: I can write scripts to automate work or reduce toil using Bash, POSIX
+- :dart: Working with GitHub Actions from creation stage till delivery stage
+  across the organization in scalable and reliable way.
+- :knot: Writing scripts to automate work or reduce toil using POSIX shell
   or Python ([scripts](https://github.com/fabasoad/scripts)). 
-- :raised_hands: Actively contribute to OSS projects ([1](https://github.com/go-enry/enry/releases/tag/v1.2.0),
-  [2](https://github.com/mint-lang/mint/issues/552), [3](https://github.com/gitleaks/gitleaks/issues/1051),
+- :raised_hands: Contributing to OSS projects ([1](https://github.com/go-enry/enry/releases/tag/v1.2.0),
+  [2](https://github.com/evincarofautumn/kitten/pull/225), [3](https://github.com/dependabot/cli/issues/86),
   etc.).
+
+## GitHub Stats
+
+![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=transparent)
 
 ## Technologies & Tools
 
