@@ -38,13 +38,9 @@ What I can do:
 
 ## Some Stats and Metrics
 
-### GitHub Stats
-
 ![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=vue-dark)
 
-### Leetcode Stats
-
-![fabasoad Leetcode stats](./github-metrics.svg)
+![fabasoad metrics](./github-metrics.svg)
 
 ### Technologies & Tools
 
