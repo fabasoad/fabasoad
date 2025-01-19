@@ -23,7 +23,7 @@ jobs:
           user: fabasoad
           base: header, activity, community, repositories, metadata
           config_timezone: Japan
-          template: repository
+          template: classic
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: fabasoad
