@@ -36,15 +36,17 @@ What I can do:
   SCA, DAST, SAST, IaC scanning, container scanning, OSS licenses verification,
   secrets scanning, etc.
 
-## GitHub Stats
+## Some Stats and Metrics
+
+### GitHub Stats
 
 ![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=vue-dark)
 
-## Leetcode Stats
+### Leetcode Stats
 
 ![fabasoad Leetcode stats](./metrics/metrics-plugin-leetcode.svg)
 
-## Technologies & Tools
+### Technologies & Tools
 
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Lang-Java-informational?style=flat&logo=openjdk&logoColor=white&color=2bbc8a)
