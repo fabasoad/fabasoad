@@ -40,6 +40,10 @@ What I can do:
 
 ![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=vue-dark)
 
+## Leetcode Stats
+
+![fabasoad Leetcode stats](./metrics/metrics-plugin-leetcode.svg)
+
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Lang-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
