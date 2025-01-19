@@ -1,12 +1,9 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 ---
 name: Metrics
 on:
-  # Lines below let you run workflow manually and on each commit
   push:
     branches:
       - main
-      - add/metrics
   schedule:
     # Every day at 09:00 JST
     - cron: "0 0 * * *"
@@ -16,7 +13,6 @@ jobs:
   collect-metrics:
     name: Collect metrics
     runs-on: ubuntu-latest
-    timeout-minutes: 15
     permissions:
       contents: write
     steps:
