@@ -44,7 +44,7 @@ What I can do:
 
 ### Leetcode Stats
 
-![fabasoad Leetcode stats](./metrics/metrics-plugin-leetcode.svg)
+![fabasoad Leetcode stats](./github-metrics.svg)
 
 ### Technologies & Tools
 
