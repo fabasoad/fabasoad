@@ -36,9 +36,7 @@ What I can do:
   SCA, DAST, SAST, IaC scanning, container scanning, OSS licenses verification,
   secrets scanning, etc.
 
-## Some Stats and Metrics
-
-![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=vue-dark)
+## Stats
 
 ![fabasoad metrics](./github-metrics.svg)
 

@@ -16,6 +16,7 @@ jobs:
   collect-metrics:
     name: Collect metrics
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -26,6 +27,7 @@ jobs:
           user: fabasoad
           base: header, activity, community, repositories, metadata
           config_timezone: Japan
+          template: repository
           # Leetcode
           plugin_leetcode: yes
           plugin_leetcode_user: fabasoad
