@@ -39,7 +39,9 @@ What I can do:
 
 ## Stats
 
-![fabasoad metrics](./github-metrics.svg)
+[![fabasoad GitHub stats](https://github-readme-stats.vercel.app/api?username=fabasoad&show_icons=true&theme=dark)](https://github.com/fabasoad/fabasoad)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabasoad&theme=dark&layout=compact&exclude_repo=ghacu,data-structures,computer-science-java,sma-site,commons-lang,poe,algorithm-tasks,computer-science-javascript,konga,portfolio-app,expensify-app,indecision-app,yaml-json-xml-converter-action,javascript-testing-best-practices,Cloudmersive.APIClient.NodeJS.ImageRecognition)
 
 ## Technologies & Tools
 
