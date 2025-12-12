@@ -33,9 +33,9 @@ What I can do:
 - :raised_hands: Contributing to OSS projects ([1](https://github.com/go-enry/enry/releases/tag/v1.2.0),
   [2](https://github.com/evincarofautumn/kitten/pull/225), [3](https://github.com/dependabot/cli/issues/86),
   etc.).
-- :guardsman: Protecting your project using Application Security best practices -
-  SCA, DAST, SAST, IaC scanning, container scanning, OSS licenses verification,
-  secrets scanning, etc.
+- :guardsman: Securing your project through Application Security best practices
+  such as SCA, DAST, SAST, IaC scanning, container scanning, open‑source license
+  verification, secrets scanning, and other related measures.
 
 ## Stats
 
